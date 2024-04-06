@@ -1,3 +1,10 @@
 {
-  "extends": "@react-native/typescript-config/tsconfig.json"
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "include": ["declarations.d.ts"],
+    "baseUrl": "./src",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true
+  }
 }
