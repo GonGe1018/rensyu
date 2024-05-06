@@ -1,5 +1,7 @@
 # 유채호도 앱 개발 할 수 있다
 
+### 너가 할 수 있을 거 같지
+
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
